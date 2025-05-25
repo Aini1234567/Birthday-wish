@@ -185,11 +185,9 @@ export default function Home() {
             <div className="letter animate-slide-out">
               HAPPY BIRTHDAY NICOLAS!!!{' '}
               <br />
-              Happy turn to 24 years old. Now I can call you uncle hahahah.
-              Anyway I don't know what to wish but I hope you always in good
-              health. Alsooo I wish you goodluck on your study software
-              engineering ⭐ Get all A for ittt. Last, I wish you success in
-              your career life and love life. And again Happy Birthday ~
+              {`Happy turn to 24 years old. Now I can call you uncle hahahah.
+Anyway I will just wish shortly. I hope you always in good health.
+Alsooo I wish you goodluck on your study software engineering ⭐ Get all A for ittt. Last, I wish you success in your career life and love life. And again Happy Birthday ~`}
             </div>
           )}
         </div>
